@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, I'm Darryl
+<a href="https://www.linkedin.com/in/darrylbrown1031/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&Color=white" /></a>
 <!--
 **darrylb757/darrylb757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
